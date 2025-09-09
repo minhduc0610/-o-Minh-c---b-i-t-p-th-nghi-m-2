@@ -1,5 +1,5 @@
 # Tên dự án / Bài tập
-
+Lập trình nháy bằng thay ghi  và nhân nút điều khiển led
 Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập trình điều khiển GPIO để đọc nút nhấn và nháy LED).
 
 ---
@@ -8,9 +8,9 @@ Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập tr
 
 |STT| | Họ và Tên    |
 |---|
-| 1 | | Nguyễn Văn A |
-| 2 | | Trần Thị B   |
-| 3 | | Lê Văn C     |
+| 1 | | Đào Minh Đức |
+| 2 | | Ngô Thị Thu Thảo  |
+| 3 | | Bùi Xuân Thanh     |
 
 ---
 
@@ -31,4 +31,5 @@ Mô tả ngắn gọn về mục tiêu của bài tập này (ví dụ: Lập tr
 ---
 ## Video Demo
 
+https://drive.google.com/drive/folders/1z3bQzLbr1lkKM5PoEmH_bpe-9qmPV0TW?usp=sharing
 (Dán link YouTube video demo sản phẩm tại đây)
